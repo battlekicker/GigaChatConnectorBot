@@ -3,3 +3,6 @@ aiogram
 APScheduler
 python-decouple
 gigachat
+requests
+fastapi
+pydantic
