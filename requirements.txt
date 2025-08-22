@@ -6,3 +6,4 @@ gigachat
 requests
 fastapi
 pydantic
+uvicorn
